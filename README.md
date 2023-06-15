@@ -31,7 +31,6 @@ To install Assessment Random Data, follow these steps:
 3. Restore the necessary packages:
 
     dotnet add package Newtonsoft.Json
-    dotnet restore
 
 ## Running Assessment Random Data
 
